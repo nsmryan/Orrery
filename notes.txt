@@ -1,0 +1,16 @@
+
+bird flock:
+  faster movement
+  tweak params
+
+cloth:
+  stretches out
+  wind mechanic
+
+player:
+  turning
+  running
+  hovering
+
+planets:
+  gravity, orientation
