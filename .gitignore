@@ -33,6 +33,15 @@ Temp
 # Windows shortcuts
 *.lnk
 
+# gvim files
+*.swo
+*.swp
+*.swm
+*.swn
+*.swo
+*.swk
+*.swl
+
 # =========================
 # Operating System Files
 # =========================
